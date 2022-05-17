@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Half Sum Element", "02. Half Sum Element.csproj", "{84B0CAF2-F01A-496B-8CE2-A20B701301A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B0CAF2-F01A-496B-8CE2-A20B701301A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B0CAF2-F01A-496B-8CE2-A20B701301A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B0CAF2-F01A-496B-8CE2-A20B701301A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B0CAF2-F01A-496B-8CE2-A20B701301A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {759A9A29-6C56-4B45-BE42-382F982C12FC}
+	EndGlobalSection
+EndGlobal
