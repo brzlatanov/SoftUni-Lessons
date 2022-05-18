@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Middle Characters", "06. Middle Characters.csproj", "{3AB3B3D0-4079-4273-BEE0-4BD3C7AE6247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB3B3D0-4079-4273-BEE0-4BD3C7AE6247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB3B3D0-4079-4273-BEE0-4BD3C7AE6247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB3B3D0-4079-4273-BEE0-4BD3C7AE6247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB3B3D0-4079-4273-BEE0-4BD3C7AE6247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEE1D833-DCA9-4222-AB03-EFCEE51CFCB6}
+	EndGlobalSection
+EndGlobal

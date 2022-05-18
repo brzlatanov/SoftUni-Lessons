@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. List Manipulation Basics", "06. List Manipulation Basics.csproj", "{C415FACB-DDA1-4C74-86D2-EE509F5A8B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C415FACB-DDA1-4C74-86D2-EE509F5A8B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C415FACB-DDA1-4C74-86D2-EE509F5A8B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C415FACB-DDA1-4C74-86D2-EE509F5A8B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C415FACB-DDA1-4C74-86D2-EE509F5A8B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C072476-A68A-4F8B-8BF8-F2B8C41B800E}
+	EndGlobalSection
+EndGlobal

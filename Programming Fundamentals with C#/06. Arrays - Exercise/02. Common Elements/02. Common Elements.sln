@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Common Elements", "02. Common Elements.csproj", "{F344DA6A-EDA5-481D-9E96-2A40E091BE78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F344DA6A-EDA5-481D-9E96-2A40E091BE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F344DA6A-EDA5-481D-9E96-2A40E091BE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F344DA6A-EDA5-481D-9E96-2A40E091BE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F344DA6A-EDA5-481D-9E96-2A40E091BE78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE0F3E32-A827-4576-A08A-BD90460CC066}
+	EndGlobalSection
+EndGlobal
