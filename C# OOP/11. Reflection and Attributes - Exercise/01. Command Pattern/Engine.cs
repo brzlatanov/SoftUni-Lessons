@@ -1,0 +1,32 @@
+﻿using System;
+
+namespace CommandPattern.Core.Contracts
+{
+    public class Engine : IEngine
+    {
+        private readonly ICommandInterpreter commandInterpreter;
+        public Engine(ICommandInterpreter commandInterpreter)
+        {
+            this.commandInterpreter = commandInterpreter;
+        }
+        public void Run()
+        {
+            while (true)
+            {
+                try
+                {
+                    string input = Console.ReadLine();
+
+                    string result = this.commandInterpreter.Read(input);
+
+                    Console.WriteLine(result);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+                
+            }
+        }
+    }
+}

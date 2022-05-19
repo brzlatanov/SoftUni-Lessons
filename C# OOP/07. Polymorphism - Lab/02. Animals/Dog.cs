@@ -1,0 +1,15 @@
+﻿namespace Animals
+{
+    public class Dog : Animal
+    {
+        public Dog(string name, string favouriteFood)
+        {
+            this.name = name;
+            this.favouriteFood = favouriteFood;
+        }
+        public override string ExplainSelf()
+        {
+            return $"I am {this.name} and my favourite food is {this.favouriteFood} DJAAF";
+        }
+    }
+}

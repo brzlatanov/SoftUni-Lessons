@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raiding", "Raiding.csproj", "{5EB465AA-025B-4F5E-A7D3-F11E6F5D4A75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EB465AA-025B-4F5E-A7D3-F11E6F5D4A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB465AA-025B-4F5E-A7D3-F11E6F5D4A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB465AA-025B-4F5E-A7D3-F11E6F5D4A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB465AA-025B-4F5E-A7D3-F11E6F5D4A75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3ECBDFC-3593-4D2E-806B-6ADCB8238476}
+	EndGlobalSection
+EndGlobal
