@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStackExercise", "CustomStackExercise.csproj", "{B4440B60-3849-43AD-A1ED-B9A97D117493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4440B60-3849-43AD-A1ED-B9A97D117493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4440B60-3849-43AD-A1ED-B9A97D117493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4440B60-3849-43AD-A1ED-B9A97D117493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4440B60-3849-43AD-A1ED-B9A97D117493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA7775C6-9B2C-4114-9744-DA79CDE4D865}
+	EndGlobalSection
+EndGlobal
