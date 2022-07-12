@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebServer.Server", "BasicWebServer.Server\BasicWebServer.Server.csproj", "{E1C2CFFF-2857-4387-A91B-0FA095CC329B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebServer.Demo", "BasicWebServer.Demo\BasicWebServer.Demo.csproj", "{CDA2C90A-BD27-4355-A0A2-D4903148235E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1C2CFFF-2857-4387-A91B-0FA095CC329B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C2CFFF-2857-4387-A91B-0FA095CC329B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C2CFFF-2857-4387-A91B-0FA095CC329B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C2CFFF-2857-4387-A91B-0FA095CC329B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA2C90A-BD27-4355-A0A2-D4903148235E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA2C90A-BD27-4355-A0A2-D4903148235E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA2C90A-BD27-4355-A0A2-D4903148235E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA2C90A-BD27-4355-A0A2-D4903148235E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF360F06-AC7C-4706-9794-E43F45F38ED7}
+	EndGlobalSection
+EndGlobal
